@@ -1,0 +1,13 @@
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.exe
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.deps.json
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.runtimeconfig.json
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.runtimeconfig.dev.json
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.dll
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.pdb
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.csproj.AssemblyReference.cache
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.AssemblyInfoInputs.cache
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.AssemblyInfo.cs
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.csproj.CoreCompileInputs.cache
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.dll
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.pdb
+C:\Users\philipst\source\repos\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.genruntimeconfig.cache
