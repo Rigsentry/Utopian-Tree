@@ -1,0 +1,8 @@
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\Utopian-Tree.exe.config
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\Utopian-Tree.exe
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\Utopian-Tree.pdb
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.csproj.AssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.csproj.SuggestedBindingRedirects.cache
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.exe
+C:\work-not-shared\2021\codechallenge\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.pdb
