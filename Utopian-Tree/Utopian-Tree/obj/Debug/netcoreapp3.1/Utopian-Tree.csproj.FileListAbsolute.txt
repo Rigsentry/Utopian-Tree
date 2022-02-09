@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\netcoreapp3.1\Utopian-Tree.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\netcoreapp3.1\Utopian-Tree.genruntimeconfig.cache
