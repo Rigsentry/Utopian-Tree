@@ -64,3 +64,6 @@ In the first case (**n=0**), the initial height (**H=1**) of the tree remains un
 In the second case (**n=1**), the tree doubles in height and is **2** meters tall after the spring cycle.
 
 In the third case (**n=4**), the tree doubles its height in spring (**n=1, H=2** ), then grows a meter in summer (**n=2,H=3** ), then doubles after the next spring (**n=3,H=6** ), and grows another meter after summer (**n=4,H=7** ). Thus, at the end of 4 cycles, its height is **7** meters.
+
+## Important Info
+The solution must satisfy all the test cases and also must meet the criteria to resolve the problem. If the solution satisfy all the test cases but don't meet the meet the criteria to resolve the problem it won't be considered as a correct answer. It is difficult to show all the possibles test cases for an specific problem.
