@@ -47,7 +47,7 @@ The first line contains an integer, **t**, the number of test cases.
 4
 ```
 
-## Sample Output 2
+## Sample Output 1
 
 ```
 1
