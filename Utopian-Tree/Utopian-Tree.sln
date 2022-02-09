@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopian-Tree", "Utopian-Tree\Utopian-Tree.csproj", "{6939F64C-FAF8-47F7-BCB2-19DEADE9D2C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6939F64C-FAF8-47F7-BCB2-19DEADE9D2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6939F64C-FAF8-47F7-BCB2-19DEADE9D2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6939F64C-FAF8-47F7-BCB2-19DEADE9D2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6939F64C-FAF8-47F7-BCB2-19DEADE9D2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6FA645-00FA-4B23-B138-350720266A4C}
+	EndGlobalSection
+EndGlobal

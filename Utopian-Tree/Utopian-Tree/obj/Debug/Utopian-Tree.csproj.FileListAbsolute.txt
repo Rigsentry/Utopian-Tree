@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\Utopian-Tree.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\Utopian-Tree.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\bin\Debug\Utopian-Tree.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Utopian-Tree\Utopian-Tree\Utopian-Tree\obj\Debug\Utopian-Tree.pdb
