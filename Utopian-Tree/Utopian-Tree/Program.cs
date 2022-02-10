@@ -11,6 +11,7 @@ namespace Utopian_Tree
         static void Main(string[] args)
         {
             var a = new int[3] { 0, 1, 4 };
+            var b = new int[3] { 6, 5, 4 };
             procUtopianTree(a);
             Console.ReadKey();
 
